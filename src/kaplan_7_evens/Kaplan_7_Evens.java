@@ -6,7 +6,7 @@
 package kaplan_7_evens;
 
 /**
- *
+ * 
  * @author akaplan
  */
 public class Kaplan_7_Evens {
